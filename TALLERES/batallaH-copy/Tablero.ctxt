@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=
+comment1.target=int\ mayorPromedio()
+comment1.text=\r\nEste\ metodo\ muestra\ el\ mayor\ promedio\r\n\ @return\ int\ mayorprom\r\n
+comment2.params=
+comment2.target=int\ potencia()
+comment2.text=\r\n\ En\ este\ metodo\ se\ muestralas\ la\ suma\ de\ las\ potencias\ de\ las\ flotas.\r\n\ @return\ potencia\ es\ un\ int\ que\ es\ la\ suma\ de\ las\ potencias\ de\ todas\ las\ flotas.\r\n
+numComments=3

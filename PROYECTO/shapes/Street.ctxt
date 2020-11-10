@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Street
+comment0.text=\r\n\ Esta\ clase\ crea\ caller\ entre\ las\ localidades.\r\n\ \r\n\ @author\ (Orjuela\ Natalia)\ \r\n\ @version\ (13/09/2020)\r\n
+comment1.params=l1\ l2
+comment1.target=Street(Location,\ Location)
+comment1.text=\r\n\ Constructos\ de\ la\ clase.\r\n\ @param\ l1\ \ corresponde\ a\ la\ primera\ localidad\r\n\ @param\ l2\ \ corresponde\ a\ la\ segunda\ localidad\r\n
+comment2.params=
+comment2.target=Location\ getlo1()
+comment2.text=\r\n\ este\ metodo\ da\ la\ localidad\ 1\r\n
+comment3.params=
+comment3.target=Location\ getlo2()
+comment3.text=\r\n\ este\ metodo\ da\ la\ localidad\ 2\r\n
+numComments=4

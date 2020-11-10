@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pirata
+comment1.params=isla\ name\ posicionx\ posiciony
+comment1.target=Pirata(Isla,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ corte()
+comment3.params=d
+comment3.target=void\ muevase(char)
+comment4.params=
+comment4.target=void\ actue()
+comment5.params=
+comment5.target=java.lang.String\ mensaje()
+numComments=6

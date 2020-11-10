@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Contestant
+comment1.params=c
+comment1.target=double\ weightedScore(Contest)
+comment1.text=\r\n\ @see\ Sortable\#weightedScore(Contest)\r\n\ \r\n
+numComments=2

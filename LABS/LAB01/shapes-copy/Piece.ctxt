@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Piece
+comment0.text=\r\n\ Las\ piezas\ seran\ especiales,\ se\ daran\ las\ esquinas\ superior\ derecha\ de\ \r\n\ los\ rectangulos\ que\ la\ conforman\ de\ izquierda\ a\ derecha.\r\n\ \r\n\ @author\ (Juan\ Esteban\ Aaron-Natalia\ Orjuela)\ \r\n\ @version\ (19\ de\ agosto\ 2020)\r\n
+comment1.params=color\ points
+comment1.target=Piece(java.lang.String,\ int[][])
+comment1.text=\r\n\ Construye\ la\ pieza\ utilizando\ la\ clase\ Rectangulo,el\ color\ y\ las\ 7\r\n\ coordenadas\ las\ ingresa\ el\ usuario,\ y\ estas\ son\ enviadas\ a\ la\ clase.\r\n
+comment2.params=
+comment2.target=void\ take()
+comment2.text=\r\n\ Quita\ la\ ficha\ del\ tablero.\r\n
+comment3.params=
+comment3.target=void\ put()
+comment3.text=\r\n\ Pone\ la\ ficha\ en\ el\ tablero.\r\n
+comment4.params=d
+comment4.target=void\ reflect(char)
+comment4.text=\r\n\ La\ pieza\ se\ refleja\ sobre\ sus\ cuatro\ lados\:\ N,S,E,W,(Norte,Sur,Este,\r\n\ Oeste).\r\n
+comment5.params=percentage
+comment5.target=void\ resize(int)
+comment5.text=\r\n\ Cambia\ el\ tama\u00F1o\ de\ la\ pieza.\r\n
+numComments=6

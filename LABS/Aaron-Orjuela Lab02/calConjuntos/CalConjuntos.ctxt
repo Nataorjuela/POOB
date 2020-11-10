@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CalConjuntos
+comment0.text=\ Calculadora.java\r\n\ Representa\ una\ calculadora\ de\ conjuntos\r\n\ @author\ ESCUELA\ 2020-2\r\n\ \r\n
+comment1.params=
+comment1.target=CalConjuntos()
+comment1.text=\r\n\ constructor\ de\ la\ clase\ CalConjuntos\r\n\ \r\n
+comment2.params=dConjunto
+comment2.target=void\ adicione(java.lang.String[])
+comment2.text=\r\n\ Este\ metodo\ inserta\ un\ conjunto\ al\ Stack\r\n\ @param\ dConjunto\ \r\n
+comment3.params=
+comment3.target=void\ elimine()
+comment4.params=times
+comment4.target=void\ duplique(int)
+comment5.params=
+comment5.target=int\ cardinal()
+comment6.params=
+comment6.target=java.lang.String\ consulte()
+comment7.params=operacion
+comment7.target=void\ opere(char)
+comment8.params=
+comment8.target=boolean\ ok()
+numComments=9

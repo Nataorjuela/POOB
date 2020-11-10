@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Combo
+comment1.params=nombre\ descuento
+comment1.target=Combo(java.lang.String,\ int)
+comment2.params=p
+comment2.target=void\ adProducto(Producto)
+comment3.params=
+comment3.target=int\ precio()
+comment3.text=\n\ Calcula\ el\ precio\ de\ un\ combo\n\ @return\ \n\ @throws\ ComboExcepcion\ COMBO_VACIO,\ si\ no\ tiene\ productos;\ PRODUCTO_DESCONOCIDO,\ si\ hay\ un\ producto\ sin\ nombre;\ \n\ y\ PRECIO_DESCONOCIDO\ si\ un\ producto\ tiene\ error\ en\ el\ precio\ \n
+comment4.params=
+comment4.target=int\ precioOmision()
+comment4.text=\n\ Calcula\ el\ precio\ por\ omision\n\ Para\ los\ productos\ con\ problemas\ se\ asume\ COSTO_POR_OMISION\n\ @return\ el\ costo\ de\ un\ combo\n\ @throws\ ComboExcepcion\ COMBO_VACIO,\ si\ no\ tiene\ productos\n
+comment5.params=
+comment5.target=int\ precioAsumido()
+comment5.text=\n\ Calcula\ el\ precio\ asumido\n\ Se\ asume\ que\ el\ precio\ de\ los\ productos\ desconocidos\ es\ el\ del\ primer\ producto\ conocido\n\ Se\ asume\ que\ el\ precio\ de\ los\ productos\ sin\ precio\ es\ el\ del\ ultimo\ producto\ \n\ Si\ el\ combo\ esta\ vacio\ el\ precio\ asumido\ es\ cero\n\ @return\ el\ precio\ asumido\ de\ un\ prodcto\n
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Sign
+comment0.text=\r\n\ Esta\ clase\ representa\ la\ se\u00F1alizacion\ entre\ las\ localidades.\r\n\ \r\n\ @author\ (Aaron\ juan\ esteban\ y\ Natlia\ Orjuela)\ \r\n\ @version\ (13/02/2020)\r\n
+comment1.params=l1\ l2
+comment1.target=Sign(Location,\ Location)
+comment1.text=\r\nConstructor\ de\ la\ clase.\ \r\n
+numComments=2

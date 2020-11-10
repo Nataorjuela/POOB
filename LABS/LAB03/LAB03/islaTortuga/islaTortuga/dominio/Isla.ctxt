@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Isla
+comment1.params=
+comment1.target=Isla\ demeIsla()
+comment10.params=
+comment10.target=void\ actuen()
+comment11.params=
+comment11.target=void\ paren()
+comment12.params=
+comment12.target=void\ decidan()
+comment2.params=
+comment2.target=void\ nuevaIsla()
+comment3.params=d
+comment3.target=void\ cambieIsla(Isla)
+comment4.params=
+comment4.target=Isla()
+comment5.params=
+comment5.target=void\ algunosEnIsla()
+comment6.params=n
+comment6.target=EnIsla\ demeEnIsla(int)
+comment7.params=e
+comment7.target=void\ adicione(EnIsla)
+comment8.params=
+comment8.target=int\ numeroEnIsla()
+comment9.params=e
+comment9.target=boolean\ enTesoro(EnIsla)
+numComments=13

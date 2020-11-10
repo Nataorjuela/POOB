@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Submission
+comment1.params=c
+comment1.target=int\ score(Contest)
+comment2.params=c
+comment2.target=boolean\ isFor(Contest)
+comment3.params=
+comment3.target=void\ evaluate()
+numComments=4

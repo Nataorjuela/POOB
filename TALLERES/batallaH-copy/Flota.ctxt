@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Flota
+comment1.params=
+comment1.target=int\ promedio()
+comment1.text=\r\n\ Este\ metodo\ muestra\ el\ promedio\ de\ aviones\ en\ los\ portaAviones\ de\ una\ flota\r\n\ @return\ int\ prom\ \r\n
+comment2.params=portaAvion
+comment2.target=void\ setPromedio(PortaAviones)
+comment3.params=
+comment3.target=java.util.ArrayList\ maquinasDebiles()
+comment4.params=
+comment4.target=int\ potencia()
+comment4.text=\r\n\ Este\ metodo\ devuelve\ la\ potencia\ de\ las\ flotas.\r\n\ @return\ potencia\ es\ la\ suma\ de\ las\ maquinas\ que\ no\ son\ debiles.\r\n\ @throw\ BatallaNavalException\ \ si\ existen\ menos\ marinos\ que\ m\u00E1quinas\ en\ la\ flota\r\n
+numComments=5
